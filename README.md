@@ -1,5 +1,5 @@
-<div align="center">
-  <img height="200" src="https://nextgeninvent.com/wp-content/uploads/2018/11/Artificial-Intelligence.gif"  />
+<div align="left">
+  <img src="https://nextgeninvent.com/wp-content/uploads/2018/11/Artificial-Intelligence.gif" width="420"  />
 </div>
 
 ## Lam Phuc Thien
