@@ -5,7 +5,7 @@
 ## Lam Phuc Thien
 I am Thien from Vietnam, currently in my **first year** of Computer Science at Nha Trang University. I'm dedicated to building a strong foundation in programming, mathematics, and data structures, with a long-term goal of becoming an **AI Engineer**.
 
-## Skills and Experienced :
+## Skills & Experience :
 * <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
